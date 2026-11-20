@@ -23,6 +23,14 @@ https://github.com/RevivalPending/mitmimic/releases/latest/download/module.json
 
 Then enable **MITMIMIC** in your world.
 
+## Set up your characters
+
+1. Open **Game Settings → Configure Settings → Module Settings**.
+2. Find **MITMIMIC** and click **Patch** (GM only).
+3. A message tells you how many characters were set up.
+
+Run **Patch** again whenever you import or re-import characters. Finished characters stay as they are.
+
 ## What changes
 
 ### Triage Expert
@@ -30,11 +38,13 @@ Then enable **MITMIMIC** in your world.
 - **Bedside Manner:** now adds one extra die to healing spells and drops the lowest one rolled.
 - **Bedside Manner:** now applies to the Blood and Bone feature.
 - **Blood and Bone:** now asks the target if they want to spend a Hit Die, and the roll benefits from Bedside Manner.
+- **Blood and Bone:** now spends one use of the character's Healer's Kit.
+- **Blood and Bone:** now links to a new Healer's Kit automatically when the character picks one up.
 
 ## Status
 
-Early release (0.0.1). For now, Triage Expert is set up by hand with a small tag. A tool to do
-that for you is coming.
+Early release. The **Patch** button arrives in the release after 0.0.1. Until then, Triage Expert is set
+up by hand with a small tag.
 
 ## Support and license
 
