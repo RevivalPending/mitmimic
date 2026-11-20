@@ -43,8 +43,7 @@ Run **Patch** again whenever you import or re-import characters. Finished charac
 
 ## Status
 
-Early release. The **Patch** button arrives in the release after 0.0.1. Until then, Triage Expert is set
-up by hand with a small tag.
+Early release (0.0.2). The **Patch** button sets up Triage Expert for your characters.
 
 ## Support and license
 

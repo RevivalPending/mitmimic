@@ -2,7 +2,7 @@
   "id": "mitmimic",
   "title": "MITMIMIC",
   "description": "Mimic In The Middle Invisibly Mending Incorrect Content.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": { "minimum": "13", "verified": "14" },
   "authors": [{ "name": "!mimic" }],
   "url": "https://github.com/RevivalPending/mitmimic",
@@ -11,7 +11,7 @@
   "esmodules": ["scripts/mitmimic.mjs"],
   "socket": true,
   "manifest": "https://github.com/RevivalPending/mitmimic/releases/latest/download/module.json",
-  "download": "https://github.com/RevivalPending/mitmimic/releases/download/0.0.1/module.zip",
+  "download": "https://github.com/RevivalPending/mitmimic/releases/download/0.0.2/module.zip",
   "relationships": {
     "systems": [{ "id": "dnd5e", "type": "system", "compatibility": { "minimum": "5.0.0" } }],
     "requires": [{ "id": "midi-qol", "type": "module" }]
